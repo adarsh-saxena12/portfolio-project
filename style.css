@@ -119,6 +119,8 @@ h1,.one,.two,dl,.three,p,.four{
   margin-left: 200px;
   margin-top: 20px;
   border: solid rgb(248, 109, 109);
+  width: 550px;
+  height: 500px;
 }
 .m2,.m3{
   width: 600px;
